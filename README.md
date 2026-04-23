@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hybrid Cloud Monitoring and Alerting System
 
 This project is a practical implementation of a cloud monitoring solution that combines **Microsoft Azure Monitor** with **custom Python scripts** to achieve both infrastructure-level and operating system-level monitoring.
@@ -107,3 +108,7 @@ The hybrid approach proved to be more effective than relying only on cloud-nativ
 ---
 
 ## Project Structure
+=======
+# hybrid-cloud-monitoring-system
+Hybrid cloud monitoring using Azure + Python scripts
+>>>>>>> 42c4035deecad77a4e9d66bf89f8692633d00c97
